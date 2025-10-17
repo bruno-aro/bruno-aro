@@ -1,4 +1,4 @@
-# 👋 Bruno Aro – Data Science & Machine Learning Portfolio
+# Bruno Aro – Data Science & Machine Learning Portfolio
 
 Welcome to my personal GitHub landing page!  
 This site showcases my journey in **Data Science**, **Machine Learning**, and **Data Analytics**, combining my technical expertise with over six years of experience in **Learning & Development**.
