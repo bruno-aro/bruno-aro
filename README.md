@@ -39,6 +39,6 @@ SQL-driven e-commerce model covering database schema design, data population, an
 | Category | Tools |
 |-----------|--------|
 | **Languages** | Python, SQL |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Prophet |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn |
 | **Visualization** | Tableau |
-| **Concepts** | Machine Learning, Data Wr
+| **Core Concepts** | Data Wrangling, Machine Learning, Data Visualization, Predictive Analytics
